@@ -8,3 +8,6 @@
 
 ## Quarterly Users
 - Customers who make purchases every quarter
+
+## Loyal Users
+- Customers who are loyal to CoffeeHut and frequently make purchases
